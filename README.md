@@ -2,6 +2,8 @@
 ReflowWizard2Plastic
 Enhanced Reflow Wizard
 supports drying/reconditioning PLA, ABS, PETG, Nylon and Desiccant
+Youtube video:
+    https://www.youtube.com/watch?v=zqyhKac-VSQ&feature=youtu.be
 ****************************
 
 2016.10.18
